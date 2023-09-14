@@ -1,5 +1,3 @@
-import { EventHandler } from "react";
-
 const GotIt = ({
   actionProvider,
 }: {
